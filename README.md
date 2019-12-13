@@ -12,6 +12,6 @@ DATE:
 PURPOSE OF PROJECT:
 This is my first JavaFx application that I built using Java which was for one of my assignments in my second year of computer science. I received 74% for this project. Both the code and the report has been added to this repository.
 
-The goal of this application is to test my knowledge on Java and learn how JavaFx is different to writing simple java applications. I did this by creating an educational game for young children that will teach them about Maths.
+The goal of this application is to learn what design patterns are and use a few on my application to test my understanding on them. This was also a change for me to test my knowledge on Java and learn how JavaFx is different to writing simple java applications. I did this by creating an educational game for young children that will teach them about Maths.
 
 Feel free to have a look around and contact me, leave comments or issue requests with things I could have done better - I'm all about learning how to write better code.
